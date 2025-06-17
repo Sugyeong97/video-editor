@@ -12,7 +12,8 @@ export default function ShortsPlayer() {
 
         <div className="py-10"></div>
         <p className="text-2xl bg-black text-white w-fit px-4 py-1 rounded">
-          📺 25.06.15 투어스 위버스 라이브 [춤추자;)]
+          📺 25.06.15 투어스 유튜브 'Face To Face - Ruel' Cover + 25.06.15
+          투어스 위버스 라이브 [춤추자;)]
         </p>
         <YoutubeEmbed videoId="TPiEMrH3OCg" />
 
