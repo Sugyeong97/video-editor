@@ -4,7 +4,7 @@ import Myself from "@/components/organism/Myself";
 
 export default function page() {
   return (
-    <div>
+    <div className="flex flex-col">
       <Myself />
       <YoutubePlayer />
       <ShortsPlayer />

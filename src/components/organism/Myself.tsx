@@ -1,3 +1,7 @@
 export default function Myself() {
-  return <div className="w-screen h-screen">임수경</div>;
+  return (
+    <div className="flex flex-col items-center justify-center py-5">
+      <img src="/main-img.png" alt="" />
+    </div>
+  );
 }
